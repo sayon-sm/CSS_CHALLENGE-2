@@ -5,13 +5,12 @@
 
 body {
   font-family: sans-serif;
-  margin: 50px;
 }
 
 article {
   border: 5px solid black;
   width: 825px;
-  margin: auto;
+  margin: 50px auto;
 }
 
 h2,
